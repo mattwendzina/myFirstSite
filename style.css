@@ -95,5 +95,5 @@
 
     /* Fun Facts */
     .facts {
-        flex:1;
+        flex:1 100%;
     }
